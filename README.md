@@ -1,6 +1,6 @@
 # Python for Scientists
 
-This workshop is aimed to give you an introduction to the scientific Python ecosystem. We'll be covering data processing and visualisation, image processing, optimization and machine learning. This workshop is targeted at people with beginner to intermediate programming experience in the general sciences interested in using Python for their day to day work.
+This workshop is aimed to give you an introduction to the scientific Python ecosystem. We'll be covering data processing and visualization, image processing, optimization and machine learning. This workshop is targeted at people with beginner to intermediate programming experience , who are in the general sciences, and are interested in using Python for their day to day work.
 
 
 ## Setup
