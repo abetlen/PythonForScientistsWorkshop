@@ -1,0 +1,8 @@
+# Python for Scientists
+
+This workshop is aimed to give you an introduction to the scientific Python ecosystem. We'll be covering data processing and visualisation, image processing, optimization and machine learning. This workshop is targeted at people with beginner to intermediate programming experience in the general sciences interested in using Python for their day to day work.
+
+
+## Setup
+
+To get set up for this workshop I recommend you follow the instructions at this link to [install Jupyter Notebooks](http://jupyter.readthedocs.io/en/latest/install.html#installing-jupyter-using-anaconda-and-conda) on your computer. We'll be using Jupyter notebooks as our main IDE.
