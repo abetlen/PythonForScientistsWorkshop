@@ -1,5 +1,7 @@
 # Python for Scientists
 
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/abetlen/PythonForScientistsWorkshop/master)
+
 This workshop is aimed to give you an introduction to the scientific Python ecosystem. We'll be covering data processing and visualization, image processing, optimization and machine learning. This workshop is targeted at people with beginner to intermediate programming experience , who are in the general sciences, and are interested in using Python for their day to day work.
 
 
